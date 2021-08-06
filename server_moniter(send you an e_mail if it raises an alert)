@@ -1,0 +1,65 @@
+#!/usr/bin/python3
+# 导入模块
+import psutil
+import datetime
+import yagmail
+# 1，定义函数实现信息显示和日志保存
+def linux_moniter(time):
+
+    # 保存CPU使用率
+    cpu_per = psutil.cpu_percent(interval=time)
+
+    # 保存内存信息
+    memory_info = psutil.virtual_memory()
+
+    # 保存硬盘信息
+    disk_info = psutil.disk_usage("/")
+
+    # 获取系统时间
+    custom_time = datetime.datetime.now().strftime("%F %T")
+    # 保存网络信息
+    net_info = psutil.net_io_counters()
+
+    # 拼接字符串显示
+    log_str ="▛▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▝▜\n"
+    log_str+="▍      监控时间      ▍ CPU使用率  ▍ 内存使用率  ▍  硬盘使用率   ▍              网络收发               ▍\n"
+    log_str+="▍        时间       ▍   共%d核    ▍ 共%.2fG内存 ▍共计%.2fG硬盘 ▍               比特               ▍\n"%(psutil.cpu_count(logical=False),memory_info.total/1024/1024/1024,disk_info.total/1024/1024/1024)
+    log_str+="▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃\n"
+    log_str+="▍%s ▍   %.2f%%   ▍    %s%%     ▍     %s%%    ▍  收：%s / 发：%s  ▍\n"%(custom_time,cpu_per,memory_info.percent,disk_info.percent,net_info.bytes_recv,net_info.bytes_sent)
+    log_str+="▙▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▟\n"
+    print(log_str)
+    # 保存到日志文件
+    f =open("log.txt","a")
+    f.seek(0)
+    f.write(log_str + "\n\n")
+    f.close
+
+    # 进行邮件示警
+    # 使用yagmail类创建对象（发件人，授权码，服务器）
+    ya_dbj = yagmail.SMTP(user="xxxxxxxxx@xx.com",password="xxxxxxxx",host="xxxxx.xx.com")
+    # 使用yagmail对象发送邮件（指定收件人，主题，内容）
+    if cpu_per >= 90:
+        content ="CPU占有率过高！！"
+        ya_dbj.send("xxxxxxxxx@xx.com","CPU占有率过高！",content)
+    if memory_info.percent >= 90 :
+        content ="内存占有率过高！！"
+        ya_dbj.send("xxxxxxxxx@xx.com","内存占有率过高！",content)
+    if disk_info.percent >= 90:
+        content ="硬盘占有率过高！！"
+        ya_dbj.send("xxxxxxxxx@xx.com","硬盘占有率过高！",content)
+
+    
+def main():
+    time = input("请输入刷新频率（秒/次）：")
+    try :
+        while True:
+            linux_moniter(int(time))
+    except:
+        print("输入错误")
+    
+# 2，进入死循环
+if __name__ == "__main__":
+    main()
+    
+        
+        
