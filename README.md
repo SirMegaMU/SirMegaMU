@@ -1,5 +1,5 @@
 # 无尽之旅
-[![zhihu_shield]][zhihu] [![twitter_shield]][twitter] ![GitHub last commit][Lastcommit]
+[![zhihu_shield]][zhihu] [![twitter_shield]][twitter] [![discord-shield]][discord] ![GitHub last commit][Lastcommit]
 
 > "**Failure** will never overtake me if my determination to succeed is **strong** enough."          - Og Mandino
 
@@ -66,3 +66,5 @@
 [py-win]:https://img.shields.io/badge/Python-3.9.6-lightgrey?logo=Python
 [YouTube Channel Subscribers]:https://img.shields.io/youtube/channel/subscribers/UC8butISFwT-Wl7EV0hUK0BQ?color=green&label=%20freeCodeCamp.org%20&logo=youtube&logoColor=red&style=plastic
 [freecodecamp]:https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?logo=
+[discord-shield]:https://img.shields.io/discord/875749972564402176?label=Discord&logo=discord&logoColor=blue
+[discord]:https://discord.gg/yQ4Q8h7C77
