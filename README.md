@@ -4,10 +4,12 @@
 > "**Failure** will never overtake me if my determination to succeed is **strong** enough."          - Og Mandino
 
 学习之路，有始无终。唯有坚韧者才能在知识的天梯上得见天光。  
-Ad astra per aspera，能载人在识海中启航的船只有不懈的坚持，而最好的舵手就是实践。
+**Ad astra per aspera**，能载人在识海中启航的船只有不懈的坚持，而最好的舵手就是实践。
 <img src="https://w.wallhaven.cc/full/od/wallhaven-odqwdl.jpg" alt="sayings" style="zoom: 50%;" />
 你在我这将能看到的，就是我的实践。它们可能有些粗陋，并不是什么精细设计的产物，然而它们将如铺路石一般，铸成前进的道路
 以下是我目前使用的工具的版本配置：
+
+![处理器][intel] ![系统][ubuntu] ![系统][win] ![python-win][py-win]
 
 ***
 你今天学习了吗？你今天又进步了吗？
@@ -41,8 +43,8 @@ Ad astra per aspera，能载人在识海中启航的船只有不懈的坚持，�
 [btc_shield]:https://img.shields.io/badge/%E5%8C%BA%E5%9D%97%E9%93%BE-%E5%B0%9A%E6%9C%AA%E5%BC%80%E5%A7%8B-inactive
 [AE_shield]:https://img.shields.io/badge/After%20Effects-%E5%B0%9A%E6%9C%AA%E5%BC%80%E5%A7%8B-inactive
 [Pr_shield]:https://img.shields.io/badge/Premiere-%E5%B0%9A%E6%9C%AA%E5%BC%80%E5%A7%8B-inactive
-
-
-
-
+[intel]:https://img.shields.io/badge/%E5%A4%84%E7%90%86%E5%99%A8-Intel(R)%20Core(TM)%20i7--10870H%20CPU%20%40%202.20GHz%20%20%202.21%20GHz-blue
+[ubuntu]:https://img.shields.io/badge/%E7%B3%BB%E7%BB%9F-Ubuntu%2020.04.2%20LTS-orange
+[win]:https://img.shields.io/badge/%E7%B3%BB%E7%BB%9F-Windows%2010-9cf
+[py-win]:https://img.shields.io/badge/Python-3.9.6-lightgrey
 
