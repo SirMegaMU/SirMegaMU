@@ -40,9 +40,9 @@
 ****
 
 [twitter]:https://twitter.com/MegaMU6 "给个关注吧亲！"
-[twitter_shield]:https://img.shields.io/badge/dynamic/json?label=Twitter&prefix=%E5%85%B3%E6%B3%A8%EF%BC%9A&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3DMegaMU%2Ffollowers
+[twitter_shield]:https://img.shields.io/badge/dynamic/json?color=blue&label=Twitter&query=%24.data.totalSubs&suffix=%E5%85%B3%E6%B3%A8&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3DMegaMU6
 [zhihu]:https://www.zhihu.com/people/feng-xue-man-gui-chen "给个关注吧亲！"
-[zhihu_shield]:https://img.shields.io/badge/dynamic/json?label=%E7%9F%A5%E4%B9%8E&prefix=%E5%85%B3%E6%B3%A8&query=%24.data.totalSubs&suffix=%E4%BA%BA&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dfeng-xue-man-gui-chen
+[zhihu_shield]:https://img.shields.io/badge/dynamic/json?color=blue&label=%E7%9F%A5%E4%B9%8E&query=%24.data.totalSubs&suffix=%E5%85%B3%E6%B3%A8&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dfeng-xue-man-gui-chen
 [Lastcommit]:https://img.shields.io/github/last-commit/SirMegaMU/StudyPath?label=%E6%9C%80%E5%90%8E%E4%BF%AE%E6%94%B9&logo=Github
 [Python_shield]:https://img.shields.io/badge/Python%E5%AD%A6%E4%B9%A0-%E8%BF%9B%E8%A1%8C%E4%B8%AD-green?logo=Python
 [HTML_shield]:https://img.shields.io/badge/HTML-%E7%95%A5%E5%BE%AE%E4%BA%86%E8%A7%A3-yellow?logo=HTML5
