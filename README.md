@@ -23,7 +23,7 @@
 
 ****
 
-##  一下是一些常用的学习资源站(持续更新)
+##  以下是一些常用的学习资源站(持续更新)
 
 > "Everybody has talent, but ability takes hard work."           -Michael Jordan
 
