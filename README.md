@@ -7,6 +7,7 @@
 **Ad astra per aspera**，能载人在识海中启航的船只有不懈的坚持，而最好的舵手就是实践。
 <img src="https://w.wallhaven.cc/full/od/wallhaven-odqwdl.jpg" alt="sayings" style="zoom: 50%;" />
 你在我这将能看到的，就是我的实践。它们可能有些粗陋，并不是什么精细设计的产物，然而它们将如铺路石一般，铸成前进的道路
+***
 以下是我目前使用的工具的版本配置：
 
 ![处理器][intel] ![系统][ubuntu] ![系统][win] ![python-win][py-win]
