@@ -7,13 +7,13 @@
 **Ad astra per aspera**，能载人在识海中启航的船只有不懈的坚持，而最好的舵手就是实践。
 <img src="https://w.wallhaven.cc/full/od/wallhaven-odqwdl.jpg" alt="sayings" style="zoom: 50%;" />
 你在我这将能看到的，就是我的实践。它们可能有些粗陋，并不是什么精细设计的产物，然而它们将如铺路石一般，铸成前进的道路
-***
 以下是我目前使用的工具的版本配置：
 
 ![处理器][intel] ![系统][ubuntu] ![系统][win] ![python-win][py-win]
 
 ***
-你今天学习了吗？你今天又进步了吗？
+## 你今天学习了吗？你今天又进步了吗？
+
 |To Do List|状态|
 |:---:|:---:|
 |编程|![Python][Python_shield]![HTML][HTML_shield]![Js][Js_shield]![C++][C++_shield]![CSS][CSS_shield]![SQL][SDL_shield]|
@@ -21,7 +21,23 @@
 |视频剪辑|![After Effects][AE_shield]![Premiere][Pr_shield] |
 |其他|![微信小程序设计][VX_shield]![区块链][btc_shield] |
 
+****
 
+##  一下是一些常用的学习资源站(持续更新)
+
+> "Everybody has talent, but ability takes hard work."           -Michael Jordan
+
+- [FreeCodeCamp](https://chinese.freecodecamp.org/learn/),极其强大的编程&认证一站式在线学习&练习网站，真正的零基础也能学。关卡式的课程也十分平易近人。
+  - 其所包含的内容有[响应式网页设计](https://chinese.freecodecamp.org/learn/responsive-web-design/),[JavaScript 算法和数据结构](https://chinese.freecodecamp.org/learn/javascript-algorithms-and-data-structures/),[前端开发库](https://chinese.freecodecamp.org/learn/front-end-libraries/),[数据可视化](https://chinese.freecodecamp.org/learn/data-visualization/),[APIs 和 微服务](https://chinese.freecodecamp.org/learn/apis-and-microservices/),[质量保证](https://chinese.freecodecamp.org/learn/quality-assurance/),[Python 和科学计算](https://chinese.freecodecamp.org/learn/scientific-computing-with-python/),[Python 和数据分析](https://chinese.freecodecamp.org/learn/data-analysis-with-python/),[信息安全](https://chinese.freecodecamp.org/learn/information-security/)等等。他们还有视频资料！[![YouTube Channel Subscribers]][freecodecamp]
+
+
+
+
+
+
+
+
+****
 
 [twitter]:https://twitter.com/MegaMU6 "给个关注吧亲！"
 [twitter_shield]:https://img.shields.io/badge/dynamic/json?label=Twitter&prefix=%E5%85%B3%E6%B3%A8%EF%BC%9A&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3DMegaMU%2Ffollowers
@@ -48,4 +64,5 @@
 [ubuntu]:https://img.shields.io/badge/%E7%B3%BB%E7%BB%9F-Ubuntu%2020.04.2%20LTS-orange
 [win]:https://img.shields.io/badge/%E7%B3%BB%E7%BB%9F-Windows%2010-9cf
 [py-win]:https://img.shields.io/badge/Python-3.9.6-lightgrey
-
+[YouTube Channel Subscribers]:https://img.shields.io/youtube/channel/subscribers/UC8butISFwT-Wl7EV0hUK0BQ?color=green&label=%20freeCodeCamp.org%20&logo=youtube&logoColor=red&style=plastic
+[freecodecamp]:https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
