@@ -40,7 +40,7 @@
 ****
 
 [twitter]:https://twitter.com/MegaMU6 "给个关注吧亲！"
-[twitter_shield]:https://img.shields.io/badge/dynamic/json?color=blue&label=Twitter&query=%24.data.totalSubs&suffix=%E5%85%B3%E6%B3%A8&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3DMegaMU6
+[twitter_shield]:https://img.shields.io/badge/dynamic/json?color=blue&label=Twitter&query=%24.data.totalSubs&suffix=%E5%85%B3%E6%B3%A8&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3DMegaMU6
 [zhihu]:https://www.zhihu.com/people/feng-xue-man-gui-chen "给个关注吧亲！"
 [zhihu_shield]:https://img.shields.io/badge/dynamic/json?color=blue&label=%E7%9F%A5%E4%B9%8E&query=%24.data.totalSubs&suffix=%E5%85%B3%E6%B3%A8&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dfeng-xue-man-gui-chen
 [Lastcommit]:https://img.shields.io/github/last-commit/SirMegaMU/StudyPath?label=%E6%9C%80%E5%90%8E%E4%BF%AE%E6%94%B9&logo=Github
