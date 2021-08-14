@@ -1,6 +1,5 @@
 # 无尽之旅
 [![zhihu_shield]][zhihu] [![twitter_shield]][twitter] [![discord-shield]][discord] ![GitHub last commit][Lastcommit]
-
 > "**Failure** will never overtake me if my determination to succeed is **strong** enough."          - Og Mandino
 
 学习之路，有始无终。唯有坚韧者才能在知识的天梯上得见天光。  
@@ -27,7 +26,7 @@
 
 > "Everybody has talent, but ability takes hard work."           -Michael Jordan
 
-- [FreeCodeCamp](https://chinese.freecodecamp.org/learn/),极其强大的编程&认证一站式在线学习&练习网站，真正的零基础也能学。关卡式的课程也十分平易近人。
+- [![freecodecamp-shield]](https://chinese.freecodecamp.org/learn/),极其强大的编程&认证一站式在线学习&练习网站，真正的零基础也能学。关卡式的课程也十分平易近人。
   - 其所包含的内容有[响应式网页设计](https://chinese.freecodecamp.org/learn/responsive-web-design/),[JavaScript 算法和数据结构](https://chinese.freecodecamp.org/learn/javascript-algorithms-and-data-structures/),[前端开发库](https://chinese.freecodecamp.org/learn/front-end-libraries/),[数据可视化](https://chinese.freecodecamp.org/learn/data-visualization/),[APIs 和 微服务](https://chinese.freecodecamp.org/learn/apis-and-microservices/),[质量保证](https://chinese.freecodecamp.org/learn/quality-assurance/),[Python 和科学计算](https://chinese.freecodecamp.org/learn/scientific-computing-with-python/),[Python 和数据分析](https://chinese.freecodecamp.org/learn/data-analysis-with-python/),[信息安全](https://chinese.freecodecamp.org/learn/information-security/)等等。他们还有视频资料！[![YouTube Channel Subscribers]][freecodecamp]
 
 
@@ -38,11 +37,13 @@
 ****
 ![end](https://w.wallhaven.cc/full/dp/wallhaven-dppj33.png)
 ****
-
+## 支持
+[![paypal-shield]][paypal]
+****
 [twitter]:https://twitter.com/MegaMU6 "给个关注吧亲！"
-[twitter_shield]:https://img.shields.io/badge/dynamic/json?color=blue&label=Twitter&query=%24.data.totalSubs&suffix=%E5%85%B3%E6%B3%A8&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3DMegaMU6
+[twitter_shield]:https://img.shields.io/badge/dynamic/json?label=Twitter&prefix=%E5%85%B3%E6%B3%A8%EF%BC%9A&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3DMegaMU%2Ffollowers
 [zhihu]:https://www.zhihu.com/people/feng-xue-man-gui-chen "给个关注吧亲！"
-[zhihu_shield]:https://img.shields.io/badge/dynamic/json?color=blue&label=%E7%9F%A5%E4%B9%8E&query=%24.data.totalSubs&suffix=%E5%85%B3%E6%B3%A8&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dfeng-xue-man-gui-chen
+[zhihu_shield]:https://img.shields.io/badge/dynamic/json?label=%E7%9F%A5%E4%B9%8E&prefix=%E5%85%B3%E6%B3%A8&query=%24.data.totalSubs&suffix=%E4%BA%BA&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dfeng-xue-man-gui-chen
 [Lastcommit]:https://img.shields.io/github/last-commit/SirMegaMU/StudyPath?label=%E6%9C%80%E5%90%8E%E4%BF%AE%E6%94%B9&logo=Github
 [Python_shield]:https://img.shields.io/badge/Python%E5%AD%A6%E4%B9%A0-%E8%BF%9B%E8%A1%8C%E4%B8%AD-green?logo=Python
 [HTML_shield]:https://img.shields.io/badge/HTML-%E7%95%A5%E5%BE%AE%E4%BA%86%E8%A7%A3-yellow?logo=HTML5
@@ -65,6 +66,9 @@
 [win]:https://img.shields.io/badge/%E7%B3%BB%E7%BB%9F-Windows%2010-9cf?logo=Windows
 [py-win]:https://img.shields.io/badge/Python-3.9.6-lightgrey?logo=Python
 [YouTube Channel Subscribers]:https://img.shields.io/youtube/channel/subscribers/UC8butISFwT-Wl7EV0hUK0BQ?color=green&label=%20freeCodeCamp.org%20&logo=youtube&logoColor=red&style=plastic
-[freecodecamp]:https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?logo=
-[discord-shield]:https://img.shields.io/discord/875749972564402176?label=Discord&logo=discord&logoColor=blue
-[discord]:https://discord.gg/yQ4Q8h7C77
+[freecodecamp-shield]:https://img.shields.io/badge/FreeCodeCamp-%E7%BD%91%E7%AB%99-black?logo=freecodecamp
+[freecodecamp]:https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+[paypal-shield]:https://img.shields.io/badge/PayPal-%40sirmegamu-blue?logo=paypal
+[paypal]:https://paypal.me/sirmegamu?locale.x=zh_XC "您的支持将给我很大的帮助！"
+[liaoxuefeng]:https://www.liaoxuefeng.com
+
