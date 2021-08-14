@@ -26,8 +26,9 @@
 
 > "Everybody has talent, but ability takes hard work."           -Michael Jordan
 
-- [![freecodecamp-shield]](https://chinese.freecodecamp.org/learn/),极其强大的编程&认证一站式在线学习&练习网站，真正的零基础也能学。关卡式的课程也十分平易近人。
-  - 其所包含的内容有[响应式网页设计](https://chinese.freecodecamp.org/learn/responsive-web-design/),[JavaScript 算法和数据结构](https://chinese.freecodecamp.org/learn/javascript-algorithms-and-data-structures/),[前端开发库](https://chinese.freecodecamp.org/learn/front-end-libraries/),[数据可视化](https://chinese.freecodecamp.org/learn/data-visualization/),[APIs 和 微服务](https://chinese.freecodecamp.org/learn/apis-and-microservices/),[质量保证](https://chinese.freecodecamp.org/learn/quality-assurance/),[Python 和科学计算](https://chinese.freecodecamp.org/learn/scientific-computing-with-python/),[Python 和数据分析](https://chinese.freecodecamp.org/learn/data-analysis-with-python/),[信息安全](https://chinese.freecodecamp.org/learn/information-security/)等等。他们还有视频资料！[![YouTube Channel Subscribers]][freecodecamp]
+- [![freecodecamp-shield]](https://chinese.freecodecamp.org/learn/)[![YouTube Channel Subscribers]][freecodecamp]
+  - ,极其强大的编程&认证一站式在线学习&练习网站，真正的零基础也能学。关卡式的课程也十分平易近人。
+  - 其所包含的内容有[响应式网页设计](https://chinese.freecodecamp.org/learn/responsive-web-design/),[JavaScript 算法和数据结构](https://chinese.freecodecamp.org/learn/javascript-algorithms-and-data-structures/),[前端开发库](https://chinese.freecodecamp.org/learn/front-end-libraries/),[数据可视化](https://chinese.freecodecamp.org/learn/data-visualization/),[APIs 和 微服务](https://chinese.freecodecamp.org/learn/apis-and-microservices/),[质量保证](https://chinese.freecodecamp.org/learn/quality-assurance/),[Python 和科学计算](https://chinese.freecodecamp.org/learn/scientific-computing-with-python/),[Python 和数据分析](https://chinese.freecodecamp.org/learn/data-analysis-with-python/),[信息安全](https://chinese.freecodecamp.org/learn/information-security/)等等。他们还有视频资料！
 
 
 
@@ -71,4 +72,5 @@
 [paypal-shield]:https://img.shields.io/badge/PayPal-%40sirmegamu-blue?logo=paypal
 [paypal]:https://paypal.me/sirmegamu?locale.x=zh_XC "您的支持将给我很大的帮助！"
 [liaoxuefeng]:https://www.liaoxuefeng.com
-
+[discord-shield]:https://img.shields.io/discord/875749972564402176?label=Discord&logo=discord
+[discord]:https://discord.gg/yQ4Q8h7C77
