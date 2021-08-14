@@ -73,7 +73,7 @@
 [ubuntu]:https://img.shields.io/badge/%E7%B3%BB%E7%BB%9F-Ubuntu%2020.04.2%20LTS-orange?logo=Ubuntu
 [win]:https://img.shields.io/badge/%E7%B3%BB%E7%BB%9F-Windows%2010-9cf?logo=Windows
 [py-win]:https://img.shields.io/badge/Python-3.9.6-lightgrey?logo=Python
-[YouTube Channel Subscribers]:https://img.shields.io/youtube/channel/subscribers/UC8butISFwT-Wl7EV0hUK0BQ?color=green&label=%20freeCodeCamp.org%20&logo=youtube&logoColor=red&style=plastic
+[YouTube Channel Subscribers]:https://img.shields.io/youtube/channel/subscribers/UC8butISFwT-Wl7EV0hUK0BQ?label=FreeCodeCamp&logo=youtube&logoColor=red&style=flat-square
 [freecodecamp-shield]:https://img.shields.io/badge/FreeCodeCamp-%E7%BD%91%E7%AB%99-black?logo=freecodecamp
 [freecodecamp]:https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
 [paypal-shield]:https://img.shields.io/badge/PayPal-%40sirmegamu-blue?logo=paypal
