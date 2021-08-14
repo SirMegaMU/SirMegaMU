@@ -38,6 +38,8 @@
 ****
 ![end](https://w.wallhaven.cc/full/dp/wallhaven-dppj33.png)
 ****
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=SirMegaMU&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+****
 ## 支持
 [![paypal-shield]][paypal]
 ****
