@@ -11,6 +11,7 @@
 ![处理器][intel] ![系统][ubuntu] ![系统][win] ![python-win][py-win]
 
 ***
+
 ## 你今天学习了吗？你今天又进步了吗？
 
 |To Do List|状态|
@@ -31,11 +32,17 @@
   - 其所包含的内容有[响应式网页设计](https://chinese.freecodecamp.org/learn/responsive-web-design/),[JavaScript 算法和数据结构](https://chinese.freecodecamp.org/learn/javascript-algorithms-and-data-structures/),[前端开发库](https://chinese.freecodecamp.org/learn/front-end-libraries/),[数据可视化](https://chinese.freecodecamp.org/learn/data-visualization/),[APIs 和 微服务](https://chinese.freecodecamp.org/learn/apis-and-microservices/),[质量保证](https://chinese.freecodecamp.org/learn/quality-assurance/),[Python 和科学计算](https://chinese.freecodecamp.org/learn/scientific-computing-with-python/),[Python 和数据分析](https://chinese.freecodecamp.org/learn/data-analysis-with-python/),[信息安全](https://chinese.freecodecamp.org/learn/information-security/)等等。他们还有视频资料！
 
 ****
+
 ![end](https://w.wallhaven.cc/full/dp/wallhaven-dppj33.png)
+
 ****
+
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=SirMegaMU&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 ****
+
 ## 支持
+
 [![paypal-shield]][paypal]
 
 ****
