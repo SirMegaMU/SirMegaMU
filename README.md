@@ -30,11 +30,6 @@
   - ,极其强大的编程&认证一站式在线学习&练习网站，真正的零基础也能学。关卡式的课程也十分平易近人。
   - 其所包含的内容有[响应式网页设计](https://chinese.freecodecamp.org/learn/responsive-web-design/),[JavaScript 算法和数据结构](https://chinese.freecodecamp.org/learn/javascript-algorithms-and-data-structures/),[前端开发库](https://chinese.freecodecamp.org/learn/front-end-libraries/),[数据可视化](https://chinese.freecodecamp.org/learn/data-visualization/),[APIs 和 微服务](https://chinese.freecodecamp.org/learn/apis-and-microservices/),[质量保证](https://chinese.freecodecamp.org/learn/quality-assurance/),[Python 和科学计算](https://chinese.freecodecamp.org/learn/scientific-computing-with-python/),[Python 和数据分析](https://chinese.freecodecamp.org/learn/data-analysis-with-python/),[信息安全](https://chinese.freecodecamp.org/learn/information-security/)等等。他们还有视频资料！
 
-
-
-
-
-
 ****
 ![end](https://w.wallhaven.cc/full/dp/wallhaven-dppj33.png)
 ****
@@ -42,7 +37,10 @@
 ****
 ## 支持
 [![paypal-shield]][paypal]
+
 ****
+
+
 [twitter]:https://twitter.com/MegaMU6 "给个关注吧亲！"
 [twitter_shield]:https://img.shields.io/badge/dynamic/json?color=blue&label=Twitter&query=%24.data.totalSubs&suffix=%E5%85%B3%E6%B3%A8&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3DMegaMU6?logo=twitter
 [zhihu]:https://www.zhihu.com/people/feng-xue-man-gui-chen "给个关注吧亲！"
