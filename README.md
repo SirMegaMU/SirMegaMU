@@ -23,7 +23,8 @@
 
 ****
 
-##  以下是一些常用的学习资源站(持续更新)
+##  这些是一些常用的学习资源站(持续更新)
+>[Python学习资源](https://github.com/SirMegaMU/Python-StudyMaterials)
 
 
 ****
