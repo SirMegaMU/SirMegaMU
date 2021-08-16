@@ -25,11 +25,6 @@
 
 ##  以下是一些常用的学习资源站(持续更新)
 
-> "Everybody has talent, but ability takes hard work."           -Michael Jordan
-
-- [![freecodecamp-shield]](https://chinese.freecodecamp.org/learn/)[![YouTube Channel Subscribers]][freecodecamp]
-  - ,极其强大的编程&认证一站式在线学习&练习网站，真正的零基础也能学。关卡式的课程也十分平易近人。
-  - 其所包含的内容有[响应式网页设计](https://chinese.freecodecamp.org/learn/responsive-web-design/),[JavaScript 算法和数据结构](https://chinese.freecodecamp.org/learn/javascript-algorithms-and-data-structures/),[前端开发库](https://chinese.freecodecamp.org/learn/front-end-libraries/),[数据可视化](https://chinese.freecodecamp.org/learn/data-visualization/),[APIs 和 微服务](https://chinese.freecodecamp.org/learn/apis-and-microservices/),[质量保证](https://chinese.freecodecamp.org/learn/quality-assurance/),[Python 和科学计算](https://chinese.freecodecamp.org/learn/scientific-computing-with-python/),[Python 和数据分析](https://chinese.freecodecamp.org/learn/data-analysis-with-python/),[信息安全](https://chinese.freecodecamp.org/learn/information-security/)等等。他们还有视频资料！
 
 ****
 
@@ -73,9 +68,7 @@
 [ubuntu]:https://img.shields.io/badge/%E7%B3%BB%E7%BB%9F-Ubuntu%2020.04.2%20LTS-orange?logo=Ubuntu
 [win]:https://img.shields.io/badge/%E7%B3%BB%E7%BB%9F-Windows%2010-9cf?logo=Windows
 [py-win]:https://img.shields.io/badge/Python-3.9.6-lightgrey?logo=Python
-[YouTube Channel Subscribers]:https://img.shields.io/youtube/channel/subscribers/UC8butISFwT-Wl7EV0hUK0BQ?label=FreeCodeCamp&logo=youtube&logoColor=red&style=flat-square
-[freecodecamp-shield]:https://img.shields.io/badge/FreeCodeCamp-%E7%BD%91%E7%AB%99-black?logo=freecodecamp
-[freecodecamp]:https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+
 [paypal-shield]:https://img.shields.io/badge/PayPal-%40sirmegamu-blue?logo=paypal
 [paypal]:https://paypal.me/sirmegamu?locale.x=zh_XC "您的支持将给我很大的帮助！"
 [liaoxuefeng]:https://www.liaoxuefeng.com
