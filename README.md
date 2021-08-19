@@ -51,7 +51,7 @@
 [zhihu_shield]:https://img.shields.io/badge/dynamic/json?color=blue&label=%E7%9F%A5%E4%B9%8E&query=%24.data.totalSubs&suffix=%E5%85%B3%E6%B3%A8&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dfeng-xue-man-gui-chen
 [Lastcommit]:https://img.shields.io/github/last-commit/SirMegaMU/StudyPath?label=%E6%9C%80%E5%90%8E%E4%BF%AE%E6%94%B9&logo=Github
 [Python_shield]:https://img.shields.io/badge/Python%E5%AD%A6%E4%B9%A0-%E8%BF%9B%E8%A1%8C%E4%B8%AD-green?logo=Python
-[HTML_shield]:https://img.shields.io/badge/HTML-%E7%95%A5%E5%BE%AE%E4%BA%86%E8%A7%A3-yellow?logo=HTML5
+[HTML_shield]:https://img.shields.io/badge/HTML%E5%AD%A6%E4%B9%A0-%E8%BF%9B%E8%A1%8C%E4%B8%AD-green?logo=HTML5
 [Js_shield]:https://img.shields.io/badge/Js-%E5%B0%9A%E6%9C%AA%E5%BC%80%E5%A7%8B-inactive?logo=JSON
 [C++_shield]:https://img.shields.io/badge/C%2B%2B-%E5%B0%9A%E6%9C%AA%E5%BC%80%E5%A7%8B-inactive?logo=C
 [CSS_shield]:https://img.shields.io/badge/CSS-%E5%B0%9A%E6%9C%AA%E5%BC%80%E5%A7%8B-inactive?logo=CSSWizardry
