@@ -16,7 +16,7 @@
 
 |To Do List|状态|
 |:---:|:---:|
-|编程|![Python][Python_shield]![HTML][HTML_shield]![Js][Js_shield]![C++][C++_shield]![CSS][CSS_shield]![SQL][SDL_shield]|
+|编程|![Python][Python_shield]![HTML][HTML_shield]![Js][Js_shield]![C][C shield]![C++][C++_shield]![CSS][CSS_shield]![SQL][SDL_shield]|
 |设计|![Photoshop][PS_shield]![Illustrator][AI_shield]![Axure][Axture_shield]![墨刀][modao_shield]![蓝湖][lanhu_shield]![C4D][C4D_shield]|
 |视频剪辑|![After Effects][AE_shield]![Premiere][Pr_shield] |
 |其他|![微信小程序设计][VX_shield]![区块链][btc_shield] |
@@ -52,6 +52,7 @@
 [Python_shield]:https://img.shields.io/badge/Python%E5%AD%A6%E4%B9%A0-%E8%BF%9B%E8%A1%8C%E4%B8%AD-green?logo=Python
 [HTML_shield]:https://img.shields.io/badge/HTML%E5%AD%A6%E4%B9%A0-%E8%BF%9B%E8%A1%8C%E4%B8%AD-green?logo=HTML5
 [Js_shield]:https://img.shields.io/badge/Js-%E5%B0%9A%E6%9C%AA%E5%BC%80%E5%A7%8B-inactive?logo=JSON
+[C shield]:https://img.shields.io/badge/C-%E8%BF%9B%E8%A1%8C%E4%B8%AD-green?logo=C
 [C++_shield]:https://img.shields.io/badge/C%2B%2B-%E5%B0%9A%E6%9C%AA%E5%BC%80%E5%A7%8B-inactive?logo=C
 [CSS_shield]:https://img.shields.io/badge/CSS-%E5%B0%9A%E6%9C%AA%E5%BC%80%E5%A7%8B-inactive?logo=CSSWizardry
 [SDL_shield]:https://img.shields.io/badge/SQL-%E5%B0%9A%E6%9C%AA%E5%BC%80%E5%A7%8B-inactive?logo=MySQL
