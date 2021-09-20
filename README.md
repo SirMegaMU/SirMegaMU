@@ -21,10 +21,9 @@
 |视频剪辑|![After Effects][AE_shield]![Premiere][Pr_shield] |
 |其他|![微信小程序设计][VX_shield]![区块链][btc_shield] |
 
-****
 
-##  这些是一些常用的学习资源站(持续更新)
->[学习资源](https://github.com/SirMegaMU/Python-StudyMaterials)
+
+
 
 
 ****
