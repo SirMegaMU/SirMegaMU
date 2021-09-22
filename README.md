@@ -1,5 +1,5 @@
 # 无尽之旅
- ![GitHub last commit][Lastcommit]
+ ![GitHub last commit][Lastcommit][![Blog shield]][Blog]
 > "**Failure** will never overtake me if my determination to succeed is **strong** enough."          - Og Mandino
 
 学习之路，有始无终。唯有坚韧者才能在知识的天梯上得见天光。  
@@ -42,9 +42,8 @@
 [![paypal-shield]][paypal]
 
 ****
-
-
-[zhihu_shield]:https://img.shields.io/badge/dynamic/json?color=blue&label=%E7%9F%A5%E4%B9%8E&query=%24.data.totalSubs&suffix=%E5%85%B3%E6%B3%A8&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dfeng-xue-man-gui-chen
+[Blog shield]:https://img.shields.io/badge/My%20Blog-sirmegamu.github.io-ff69b4?logo=github
+[Blog]:https://sirmegamu.github.io "来看看吧！"
 [Lastcommit]:https://img.shields.io/github/last-commit/SirMegaMU/StudyPath?label=%E6%9C%80%E5%90%8E%E4%BF%AE%E6%94%B9&logo=Github
 [Python_shield]:https://img.shields.io/badge/Python%E5%AD%A6%E4%B9%A0-%E8%BF%9B%E8%A1%8C%E4%B8%AD-green?logo=Python
 [HTML_shield]:https://img.shields.io/badge/HTML%E5%AD%A6%E4%B9%A0-%E8%BF%9B%E8%A1%8C%E4%B8%AD-green?logo=HTML5
