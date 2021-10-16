@@ -19,7 +19,7 @@
 |编程|![Python][Python_shield]![HTML][HTML_shield]![Js][Js_shield]![C][C shield]![C++][C++_shield]![CSS][CSS_shield]![SQL][SDL_shield]|
 |设计|![Photoshop][PS_shield]![Illustrator][AI_shield]![Axure][Axture_shield]![墨刀][modao_shield]![蓝湖][lanhu_shield]![C4D][C4D_shield]|
 |视频剪辑|![After Effects][AE_shield]![Premiere][Pr_shield] |
-|其他|![微信小程序设计][VX_shield]![区块链][btc_shield] |
+|其他|![微信小程序设计][VX_shield]![区块链][btc_shield]![SolidWorks][solidworks] |
 
 
 
@@ -72,3 +72,4 @@
 [liaoxuefeng]:https://www.liaoxuefeng.com
 [discord-shield]:https://img.shields.io/discord/875749972564402176?label=Discord&logo=discord
 [discord]:https://discord.gg/yQ4Q8h7C77
+[solidworks]:https://img.shields.io/badge/SolidWorks-%E5%AE%8C%E6%88%90%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B-red
