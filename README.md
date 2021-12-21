@@ -22,7 +22,7 @@
 [![paypal-shield]][paypal]
 
 ****
-[Blog shield]:https://img.shields.io/badge/My%20Blog-sirmegamu.github.io-ff69b4?logo=github
+[Blog shield]:https://img.shields.io/badge/My%20Blog-megamuu.icu-ff69b4?logo=github
 [Blog]:https://megamu.icu/ "来看看吧！"
 [Lastcommit]:https://img.shields.io/github/last-commit/SirMegaMU/StudyPath?label=%E6%9C%80%E5%90%8E%E4%BF%AE%E6%94%B9&logo=Github
 [intel]:https://img.shields.io/badge/%E5%A4%84%E7%90%86%E5%99%A8-Intel(R)%20Core(TM)%20i7--10870H%20CPU%20%40%202.20GHz%20%20%202.21%20GHz-blue?logo=Intel
