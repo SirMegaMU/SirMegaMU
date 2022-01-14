@@ -2,18 +2,11 @@
  ![GitHub last commit][Lastcommit][![Blog shield]][Blog]
 > "**Failure** will never overtake me if my determination to succeed is **strong** enough."          - Og Mandino
 
-学习之路，有始无终。唯有坚韧者才能在知识的天梯上得见天光。  
-**Ad astra per aspera**，能载人在识海中启航的船只有不懈的坚持，而最好的舵手就是实践。
 <img src="https://w.wallhaven.cc/full/od/wallhaven-odqwdl.jpg" alt="sayings" style="zoom: 50%;" />
-
-以下是我目前使用的工具的版本配置：
-
-![系统][ubuntu] ![系统][win] ![python-win][py-win]
 
 ****
 
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=SirMegaMU&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 
 ****
 
