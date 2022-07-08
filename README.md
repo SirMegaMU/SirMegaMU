@@ -2,8 +2,6 @@
  ![GitHub last commit][Lastcommit][![Blog shield]][Blog]
 > "**Failure** will never overtake me if my determination to succeed is **strong** enough."          - Og Mandino
 
-<img src="https://w.wallhaven.cc/full/od/wallhaven-odqwdl.jpg" alt="sayings" style="zoom: 50%;" />
-
 ****
 
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=SirMegaMU&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
