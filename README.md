@@ -1,5 +1,5 @@
 
- ![GitHub last commit][Lastcommit][![Blog shield]][Blog]
+ ![GitHub last commit][Lastcommit]
 > "**Failure** will never overtake me if my determination to succeed is **strong** enough."          - Og Mandino
 
 ****
@@ -18,9 +18,7 @@
 [![paypal-shield]][paypal] [![patreon_shield]][patreon]
 
 ****
-[Blog shield]:https://img.shields.io/badge/My%20Blog-megamu.icu-ff69b4?logo=github
-[Blog]:https://megamu.icu/ "来看看吧！"
-[Lastcommit]:https://img.shields.io/github/last-commit/SirMegaMU/StudyPath?label=%E6%9C%80%E5%90%8E%E4%BF%AE%E6%94%B9&logo=Github
+[Lastcommit]:https://img.shields.io/github/last-commit/SirMegaMU/SirMegaMU?label=%E6%9C%80%E5%90%8E%E4%BF%AE%E6%94%B9&logo=Github
 [ubuntu]:https://img.shields.io/badge/%E7%B3%BB%E7%BB%9F-Ubuntu%2020.04.2%20LTS-orange?logo=Ubuntu
 [win]:https://img.shields.io/badge/%E7%B3%BB%E7%BB%9F-Windows%2010-9cf?logo=Windows
 [py-win]:https://img.shields.io/badge/Python-3.9.6-lightgrey?logo=Python
