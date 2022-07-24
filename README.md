@@ -5,7 +5,7 @@
 ****
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sirmegamu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sirmegamu&include_all_commits=true" width="450"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirmegamu&layout=compact" />
