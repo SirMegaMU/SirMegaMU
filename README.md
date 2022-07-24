@@ -4,10 +4,12 @@
 
 ****
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=sirmegamu&layout=compact&hide=issues" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirmegamu&layout=compact" >
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sirmegamu" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirmegamu&layout=compact" />
+</a>
 
 ****
 
