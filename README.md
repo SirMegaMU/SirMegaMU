@@ -5,12 +5,8 @@
 ****
 
 <div>
- <div style="display=inline">
   <img src="https://github-readme-stats.vercel.app/api?username=sirmegamu&layout=compact&hide=issues" >
- </div>
- <div style="display=inline">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirmegamu&layout=compact" >
- </div>
 </div>
 
 ****
