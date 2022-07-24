@@ -3,8 +3,16 @@
 > "**Failure** will never overtake me if my determination to succeed is **strong** enough."          - Og Mandino
 
 ****
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sirmegamu&layout=compact&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirmegamu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+ <div style="display=inline">
+  <img src="https://github-readme-stats.vercel.app/api?username=sirmegamu&layout=compact&hide=issues" >
+ </div>
+ <div style="display=inline">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirmegamu&layout=compact" >
+ </div>
+</div>
+
 ****
 
 ## 支持
