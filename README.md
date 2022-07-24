@@ -13,9 +13,9 @@
 
 ****
 
-## 支持
+## Support
 
-[![paypal-shield]][paypal]
+[![paypal-shield]][paypal] [![patreon_shield]][patreon]
 
 ****
 [Blog shield]:https://img.shields.io/badge/My%20Blog-megamu.icu-ff69b4?logo=github
@@ -27,4 +27,5 @@
 
 [paypal-shield]:https://img.shields.io/badge/PayPal-%40sirmegamu-blue?logo=paypal
 [paypal]:https://paypal.me/sirmegamu?locale.x=zh_XC "您的支持将给我很大的帮助！"
-
+[patreon_shield]:https://img.shields.io/badge/Patreon-MegaMU-orange?logo=patreon
+[patreon]:https://www.patreon.com/megamu
