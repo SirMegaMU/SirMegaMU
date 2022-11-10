@@ -15,7 +15,7 @@
 
 ## Support
 
-[![paypal-shield]][paypal] [![patreon_shield]][patreon]
+ [![patreon_shield]][patreon]
 
 ****
 [Lastcommit]:https://img.shields.io/github/last-commit/SirMegaMU/SirMegaMU?label=%E6%9C%80%E5%90%8E%E4%BF%AE%E6%94%B9&logo=Github
@@ -23,7 +23,5 @@
 [win]:https://img.shields.io/badge/%E7%B3%BB%E7%BB%9F-Windows%2010-9cf?logo=Windows
 [py-win]:https://img.shields.io/badge/Python-3.9.6-lightgrey?logo=Python
 
-[paypal-shield]:https://img.shields.io/badge/PayPal-%40sirmegamu-blue?logo=paypal
-[paypal]:https://paypal.me/sirmegamu?locale.x=zh_XC "您的支持将给我很大的帮助！"
 [patreon_shield]:https://img.shields.io/badge/Patreon-MegaMU-orange?logo=patreon
 [patreon]:https://www.patreon.com/megamu
