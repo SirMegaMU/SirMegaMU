@@ -1,6 +1,8 @@
-
-![GitHub last commit](https://img.shields.io/github/last-commit/SirMegaMU/SirMegaMU?label=%E6%9C%80%E5%90%8E%E4%BF%AE%E6%94%B9&logo=Github)
+<div align="center">
  
+  ![GitHub last commit](https://img.shields.io/github/last-commit/SirMegaMU/SirMegaMU?label=%E6%9C%80%E5%90%8E%E4%BF%AE%E6%94%B9&logo=Github)
+ 
+</div>
 > "**Failure** will never overtake me if my determination to succeed is **strong** enough."          - Og Mandino
 
 ****
@@ -15,7 +17,7 @@
 ****
 
 <details>
-  <summary><b>Support</b></summary>
+  <summary align="center"><b>Support</b></summary>
   <div align="center">
     <a href="https://www.patreon.com/megamu">
       <img src="https://img.shields.io/badge/Patreon-MegaMU-orange?logo=patreon">
