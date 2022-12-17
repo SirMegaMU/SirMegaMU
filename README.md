@@ -4,16 +4,20 @@
  
 </div>
 
-> "**Failure** will never overtake me if my determination to succeed is **strong** enough."          - Og Mandino
+<div align="center">
+ "<b>Failure</b> will never overtake me if my determination to succeed is <b>strong</b> enough."          - Og Mandino
+</div>
 
 ****
 
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sirmegamu&include_all_commits=true" width="450"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirmegamu&layout=compact&langs_count=6&hide=html,xslt" />
 </a>
+</div>
 
 ****
 
