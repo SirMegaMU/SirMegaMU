@@ -21,6 +21,14 @@
 
 ****
 
+<div align="center">
+ 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=sirmegamu&no-bg=true&no-frame=true&row=1)](https://github.com/sirmegamu)
+ 
+</div>
+
+****
+
 <details>
   <summary align="center"><b>Connect</b></summary>
   <div align="center">
