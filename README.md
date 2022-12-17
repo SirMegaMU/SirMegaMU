@@ -21,17 +21,19 @@
 
 ****
 
-<div align="center">
+<details>
+<summary align="center"><b>Trophy</b></summary>
+  <div align="center"></br>
  
   [![trophy](https://github-profile-trophy.vercel.app/?username=sirmegamu&no-bg=true&no-frame=true&row=1)](https://github.com/sirmegamu)
  
-</div>
+  </div>
+</details>
 
-****
 
 <details>
   <summary align="center"><b>Connect</b></summary>
-  <div align="center">
+  <div align="center"></br>
     
    [![badge](https://img.shields.io/badge/Twitter-@megamu666-blue?logo=twitter)](https://twitter.com/megamu666)
    [![badge](https://img.shields.io/badge/Telegram-Mega_MU-blue?logo=telegram)](https://t.me/Mega_MU)
@@ -45,7 +47,7 @@
 
 <details>
   <summary align="center"><b>Support</b></summary>
-  <div align="center">
+  <div align="center"></br>
     <a href="https://www.patreon.com/megamu">
       <img src="https://img.shields.io/badge/Patreon-MegaMU-orange?logo=patreon">
     </a>
