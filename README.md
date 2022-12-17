@@ -16,7 +16,7 @@
 
 <details>
   <summary><b>Support</b></summary>
-  <div>
+  <div align="center">
     <a href="https://www.patreon.com/megamu">
       <img src="https://img.shields.io/badge/Patreon-MegaMU-orange?logo=patreon">
     </a>
