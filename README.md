@@ -22,6 +22,14 @@
 ****
 
 <details>
+<summary align="center"><b>CodeRank</b></summary>
+  <div align="center"></br>
+   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sirmegamu&height=150">
+  </div>
+</details>
+
+
+<details>
 <summary align="center"><b>Trophy</b></summary>
   <div align="center"></br>
  
