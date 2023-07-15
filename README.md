@@ -1,8 +1,10 @@
+<!--
 <div align="center">
  
   ![GitHub last commit](https://img.shields.io/github/last-commit/SirMegaMU/SirMegaMU?label=%E6%9C%80%E5%90%8E%E4%BF%AE%E6%94%B9&logo=Github)
  
 </div>
+-->
 
 <div align="center">
  "<b>Failure</b> will never overtake me if my determination to succeed is <b>strong</b> enough."          - Og Mandino
@@ -12,15 +14,15 @@
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sirmegamu&include_all_commits=true" width="450"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sirmegamu&include_all_commits=true&rank_icon=github&bg_color=00000000" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirmegamu&layout=compact&langs_count=6&hide=html,xslt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirmegamu&langs_count=8&hide=html,xslt&layout=compact&card_width=350&bg_color=00000000" />
 </a>
 </div>
 
 ****
-
+<!--
 <details>
 <summary align="center"><b>CodeRank</b></summary>
   <div align="center"></br>
@@ -37,7 +39,7 @@
  
   </div>
 </details>
-
+-->
 
 <details>
   <summary align="center"><b>Connect</b></summary>
