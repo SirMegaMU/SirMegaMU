@@ -21,9 +21,11 @@
     
    [![badge](https://img.shields.io/badge/Twitter-@megamu666-blue?logo=twitter)](https://twitter.com/megamu666)
    [![badge](https://img.shields.io/badge/Telegram-Mega_MU-blue?logo=telegram)](https://t.me/Mega_MU)
-   [![badge](https://img.shields.io/badge/LinkedIn-Tianren-blue?logo=linkedin)](https://www.linkedin.com/in/wangtianren/)
    [![badge](https://img.shields.io/badge/Facebook-MegaMU-blue?logo=facebook)](https://www.facebook.com/profile.php?id=100071321155140)
+   
    [![badge](https://img.shields.io/badge/Upwork-Tianren_W.-green?logo=upwork)](https://www.upwork.com/freelancers/~010e50685fb9dddc90)
+   [![badge](https://img.shields.io/badge/LinkedIn-Tianren-blue?logo=linkedin)](https://www.linkedin.com/in/wangtianren/)
+   
    <!--[![badge](https://img.shields.io/badge/Linktr-One_For_All-green?logo=linktree)](https://linktr.ee/sirmegamu)-->
    
   </div>
